@@ -1,12 +1,12 @@
 # Site settings
-title: Luke Bae
+title: Luke Bae Github Page
 description: "A long time ago in a galaxy far, far away...."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jhbae.github.io"
 
 # User settings
 username: Luke Bae
-user_title: I’m your son
+user_title: Im your son
 email: kroot111@gmail.com
 twitter_username: Abraxas5
 github_username:  jhbae
