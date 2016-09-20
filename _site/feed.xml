@@ -1,56 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Luke Bae</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Mar 2016 02:05:03 +0900</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 02:05:03 +0900</lastBuildDate>
+    <link>http://jhbae.github.io/</link>
+    <atom:link href="http://jhbae.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Sep 2016 18:10:54 +0900</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 18:10:54 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
-    
-      <item>
-        <title>draft test</title>
-        <description>&lt;p&gt;&lt;em&gt;test&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;test somthing&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;test something&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;under&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;list&lt;/li&gt;
-  &lt;li&gt;list2&lt;/li&gt;
-  &lt;li&gt;list3
-    &lt;ul&gt;
-      &lt;li&gt;list indented
-        &lt;ol&gt;
-          &lt;li&gt;ol1&lt;/li&gt;
-          &lt;li&gt;ol1-1&lt;/li&gt;
-          &lt;li&gt;ol2&lt;/li&gt;
-          &lt;li&gt;ol2&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 03 Mar 2016 02:05:03 +0900</pubDate>
-        <link>http://yourdomain.com/my/category,/your/category/2016/03/03/draft.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/my/category,/your/category/2016/03/03/draft.html</guid>
-        
-        
-        <category>my</category>
-        
-        <category>category,</category>
-        
-        <category>your</category>
-        
-        <category>category</category>
-        
-      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -70,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 01 Mar 2016 20:44:42 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/03/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/01/welcome-to-jekyll.html</guid>
+        <link>http://jhbae.github.io/jekyll/update/2016/03/01/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://jhbae.github.io/jekyll/update/2016/03/01/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
