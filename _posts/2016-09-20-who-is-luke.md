@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: /about
 title:  "Who is Luke?"
 ---
 

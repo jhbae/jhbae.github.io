@@ -16,7 +16,7 @@ gplus_username: 102464230133449888715
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+#permalink: /:title/
 
 
 # html minify
