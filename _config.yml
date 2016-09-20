@@ -1,23 +1,51 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Luke Bae
-email: kroot111@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "A long time ago in a galaxy far, far away...."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jhbae.github.io" # the base hostname & protocol for your site
-facebook_username: abraxas3
-github_username: jhbae
+url: "https://jhbae.github.io"
+
+# User settings
+username: Luke Bae
+user_title: I’m your son
+email: kroot111@gmail.com
+twitter_username: Abraxas5
+github_username:  jhbae
+gplus_username: 102464230133449888715 
+#disqus_username: loremipsum
 
 # Build settings
 markdown: kramdown
-#highlighter: pygments
-permalink: pretty
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: home
+    url: /
+#  - title: my posts
+#    url: /posts
+#  - title: series
+#    url: /series
+#  - title: tags
+#    url: /tags
+  - title: About me
+    url: /about
+# projects in header index
+projects:
+#  - name: asciilang
+#    url: https://github.com/victorvoid/asciilang
+#  - name: vim-frontend
+#    url: https://github.com/victorvoid/vim-frontend
+#  - name: generator-capybara
+#    url: https://github.com/victorvoid/generator-capybara 
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
