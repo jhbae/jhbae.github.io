@@ -1,57 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luke Bae</title>
+    <title>Luke Bae Github Page</title>
     <description>A long time ago in a galaxy far, far away....</description>
     <link>https://jhbae.github.io/</link>
     <atom:link href="https://jhbae.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Sep 2016 20:13:10 +0900</pubDate>
-    <lastBuildDate>Tue, 20 Sep 2016 20:13:10 +0900</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2016 01:40:04 +0900</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2016 01:40:04 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Who is Luke?</title>
-        <description>&lt;hr /&gt;
-
-&lt;h1 id=&quot;profile&quot;&gt;Profile&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Name: Luke Bae ( Jang-ho, Bae)&lt;/li&gt;
-  &lt;li&gt;Date of Birth: 1983-08-24&lt;/li&gt;
-  &lt;li&gt;Email:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#114;&amp;#111;&amp;#111;&amp;#116;&amp;#049;&amp;#049;&amp;#049;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#107;&amp;#114;&amp;#111;&amp;#111;&amp;#116;&amp;#049;&amp;#049;&amp;#049;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#111;&amp;#117;&amp;#105;&amp;#115;&amp;#118;&amp;#053;&amp;#064;&amp;#110;&amp;#097;&amp;#118;&amp;#101;&amp;#114;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#105;&amp;#115;&amp;#118;&amp;#053;&amp;#064;&amp;#110;&amp;#097;&amp;#118;&amp;#101;&amp;#114;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;projects&quot;&gt;Projects&lt;/h1&gt;
-
-&lt;h2 id=&quot;idincu-20132016&quot;&gt;IDINCU (2013~2016)&lt;/h2&gt;
-
-&lt;h3 id=&quot;ovey&quot;&gt;OVEY&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/kr/app/obei-nae-uigyeon-ui-gachi/id483557574?mt=8&quot; title=&quot;오베이(iOS)&quot;&gt;iOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.idincu.ovey.android&quot; title=&quot;오베이(Android)&quot;&gt;Android&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;panel&quot;&gt;PANEL&lt;/h3&gt;
-
-&lt;h3 id=&quot;gsso&quot;&gt;GSSO&lt;/h3&gt;
-
-&lt;h2 id=&quot;icube-20102013&quot;&gt;ICUBE (2010~2013)&lt;/h2&gt;
-
-&lt;h3 id=&quot;humax-live-tv&quot;&gt;Humax Live TV&lt;/h3&gt;
-
-&lt;h3 id=&quot;woon&quot;&gt;WOON&lt;/h3&gt;
-
-&lt;h3 id=&quot;tivizen&quot;&gt;TIVIZEN&lt;/h3&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;h1 id=&quot;profile&quot;&gt;Profile&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Name: Luke Bae (Jang-ho, Bae)&lt;/li&gt; &lt;li&gt;Date of Birth: 1983-08-24&lt;/li&gt; &lt;li&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#114;&amp;#111;&amp;#111;&amp;#116;&amp;#049;&amp;#049;&amp;#049;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#107;&amp;#114;&amp;#111;&amp;#111;&amp;#116;&amp;#049;&amp;#049;&amp;#049;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;, &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#111;&amp;#117;&amp;#105;&amp;#115;&amp;#118;&amp;#053;&amp;#064;&amp;#110;&amp;#097;&amp;#118;&amp;#101;&amp;#114;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#105;&amp;#115;&amp;#118;&amp;#053;&amp;#064;&amp;#110;&amp;#097;&amp;#118;&amp;#101;&amp;#114;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;hr /&gt; &lt;h1 id=&quot;projects&quot;&gt;Projects&lt;/h1&gt; &lt;h2 id=&quot;idincu-20132016&quot;&gt;IDINCU (2013~2016)&lt;/h2&gt; &lt;h3 id=&quot;ovey-2012--&quot;&gt;OVEY (2012 ~ )&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/kr/app/obei-nae-uigyeon-ui-gachi/id483557574?mt=8&quot; title=&quot;오베이(iOS)&quot;&gt;iOS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.idincu.ovey.android&quot; title=&quot;오베이(Android)&quot;&gt;Android&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Skill Sets Used&lt;/strong&gt; Objective-C, Java, Javascript, JQuery, Cocoapods, Gradle, AFNetworking, OkHttp, Retrofit, Google SDK, Facebook SDK, Bolts, Otto, Crashlytics SDK, OpenCV and so on&lt;/p&gt; &lt;h3 id=&quot;panel-201408--&quot;&gt;PANEL (2014.08 ~ )&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Panel-KR&lt;/li&gt; &lt;li&gt;Oveyshop-KR&lt;/li&gt; &lt;li&gt;Giftishow&lt;/li&gt; &lt;li&gt;Culturevoucher&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Skill Sets Used&lt;/strong&gt; Java 7/8, Javascript, JQuery, HTML/CSS, Gradle, Spring, Spring Boot, Tomcat, MyBatis, Jooq, MariaDB 5/10, Hessian RPC, Freemarker&lt;/p&gt; &lt;h3 id=&quot;gsso-201401--201411&quot;&gt;GSSO (2014.01 ~ 2014.11)&lt;/h3&gt;...</description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 +0900</pubDate>
         <link>https://jhbae.github.io/2016/09/20/who-is-luke.html</link>
         <guid isPermaLink="true">https://jhbae.github.io/2016/09/20/who-is-luke.html</guid>

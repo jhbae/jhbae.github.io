@@ -33,16 +33,16 @@ links:
     url: /
 #  - title: my posts
 #    url: /posts
-#  - title: series
-#    url: /series
-#  - title: tags
-#    url: /tags
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
   - title: About me
     url: /2016/09/20/who-is-luke
 # projects in header index
 projects:
-#  - name: asciilang
-#    url: https://github.com/victorvoid/asciilang
+  - name: Flickr Public Feed(App Garden) Slideshow Demo (to exercise Swift)
+    url: https://github.com/jhbae/flikr-publicfeed-slideshow
 #  - name: vim-frontend
 #    url: https://github.com/victorvoid/vim-frontend
 #  - name: generator-capybara
